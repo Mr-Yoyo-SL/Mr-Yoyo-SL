@@ -28,7 +28,7 @@
 <h3 align="left">I’m currently working on python games</h3> 
 <h3 align="left">I’m currently learning python, java and machine learning</h3> 
 
- <h3 align="right"> Refer me as Yoyo</h3> 
+ <h3 align="right"> Refer me as Piyarathna</h3> 
  
 
 ---
